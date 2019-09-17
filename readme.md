@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/antoniojunior1890/spring-boot-docker.svg?branch=master)](https://travis-ci.org/antoniojunior1890/spring-boot-docker)
 # Spring boot com docker
 
 ## Comandos
