@@ -1,6 +1,6 @@
 # Spring boot com docker
 
-## Commandos
+## Comandos
 
 - $ mvn clean package
 - $ docker build -t spring-boot-docker .
